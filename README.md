@@ -11,4 +11,4 @@ Add files to staging area: $ git add example.html
 
 To commit: $ git commit -m 'my awesome changes'
 
-To push: $ git push github master
+To push: git push https://github.com/macikokoro/repo.git
