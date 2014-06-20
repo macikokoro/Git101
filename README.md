@@ -1,6 +1,8 @@
 Git101
 ======
 
+http://gitref.org/
+
 Basic stuff about git
 
 Clone repo: $ git clone git://github.com/macikokoro/example.git
